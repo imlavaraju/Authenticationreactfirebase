@@ -1,0 +1,25 @@
+/* Navbar container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+
+  color: #131212;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #131212;
+  color: blanchedalmond;
+}
+
+/* Style for the left element */
+.left {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* Style for the right element */
+.right {
+  font-size: 1.2rem;
+  margin-right: 15px;
+  height: 30px;
+  border-radius: 10px;
+}
